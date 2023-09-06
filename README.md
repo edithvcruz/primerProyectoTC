@@ -16,13 +16,14 @@ En este proyecto me enfoqué en construir una interfaz de una página personaliz
 Contiene  las siguientes secciones:
 
 + **Header:** Sección que involucra el nombre de la página y una imagen de mascotas.
-+ **Main:** Sección del contenedor para los elementos centrales de la página: *logo*, *barra de búsqueda*, *iconos* y *botones.*
-+ **Footer:** Sección que incluye enlaces externos al final de la página.
++ **div/ h3:** Sección del contenedor para los elementos centrales de la página: *imagenes de mascotas en dos secciones: gatos y perros*, *enlaces externosa*, *listas enumeradas* y *con viñetas*, *y formularios*.
++ **Footer:** Sección al final de la página que incluye un enlace externo a la página de Tecnolochicas.
 
 Las tecnologías que utilicé son: <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  
 ## 3. Objetivo del proyecto
-Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
++ Acercamiento al uso de HTML5 y CSS3.
++ Aprender a utilizar las etiquetas básicas de HTML5 y CSS3.
 
 ## 4. Link a DEMO
-Aquí puedes ver mi proyecto terminado: [Clon de Google](https://clonde-google-eight.vercel.app/)
+Aquí puedes ver mi proyecto terminado: [Clon de Google](https://primer-proyecto-tc.vercel.app/)
