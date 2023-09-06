@@ -1,0 +1,66 @@
+ /*css 
+hoja de estilos en cascada 
+esta interconectada con html, trabaj a en conjunto con este
+de diseño
+css en linea: se incorpora en el mismo codigo
+css embebido: se incorpora para una sección de html
+css externo: en archivo aparte que luego se enlace
+selector: para identificar aquien se se ladar la propiedad en css  */
+/*  se basa en reglas que determinan el estilo*/ 
+.color1 {color: #553360;}
+.color2 {color: #89396d;}
+.color3 {color: #cd4c7a;}
+.color4 {color: #ff7b89;}
+.color5 {color: #ffbb94;}
+.color6 {color: #293256;}
+.color7 {color: #55416e;}
+.color8 {color: #92568b;}
+.color9 {color: #e475a9;}
+.color10 {color: #ffa4c2;}
+body{
+    color: rgb(9, 1, 21);
+    background-color:  #e9bdcd;
+    
+}
+header{
+    background-image: url(https://segurosexito.vtexassets.com/arquivos/reclamos-seguros-mascotas.png);
+    padding: 20px;
+}
+H1{
+    color:#9a1d6a;
+    font-size: xx-large;
+    font-weight:bolder;
+    font-family: 'Rubik Moonrocks', cursive;
+    text-align: center;
+}
+h3{
+    font-family: 'Tilt Prism', cursive;
+}
+div{
+    text-align: center;
+}
+.img1, .img2,.img3{
+    width: 300px;
+    text-align: center;
+    border-radius: 10%;
+    border-style: outset;
+    border-color: #f4a3be;
+    margin:1%;
+
+}
+.img3, .img1{
+    height: 225px;
+}
+ol{
+    color: #90aa27;
+}
+footer, small, a{
+    color:#89396d;
+    text-align: center;
+    text-decoration: none;
+    
+}
+a{
+    font-weight:bolder;
+
+}
