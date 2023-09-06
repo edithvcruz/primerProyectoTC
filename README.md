@@ -26,4 +26,4 @@ Las tecnologías que utilicé son: <img src="https://img.shields.io/badge/HTML5-
 + Aprender a utilizar las etiquetas básicas de HTML5 y CSS3.
 
 ## 4. Link a DEMO
-Aquí puedes ver mi proyecto terminado: [Clon de Google](https://primer-proyecto-tc.vercel.app/)
+Aquí puedes ver mi proyecto terminado: [Mi primer página Tecnolochicas](https://primer-proyecto-tc.vercel.app/)
